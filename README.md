@@ -2,7 +2,7 @@
 
 Un dashboard sencillo, bonito y 100 % funcional para controlar tus ingresos y gastos.
 
-**Live Demo** → 
+**Live Demo** → https://dashboard-finanzas-jmm.vercel.app/
 
 ## Qué tiene
 
