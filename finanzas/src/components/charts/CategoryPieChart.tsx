@@ -57,7 +57,7 @@ export default function CategoryPieChart({ transactions }: Props) {
             fill="#8884d8"
             dataKey="value"
           >
-            {data.map((entry, index) => (
+            {data.map((_, index) => (
               <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
             ))}
           </Pie>
