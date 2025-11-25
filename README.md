@@ -2,7 +2,7 @@
 
 Un dashboard sencillo, bonito y 100 % funcional para controlar tus ingresos y gastos.
 
-**Live Demo** → https://finanzas-tu-usuario.vercel.app
+**Live Demo** → 
 
 ## Qué tiene
 
@@ -36,5 +36,5 @@ Abre http://localhost:5173 y listo!
 ## Deploy
 Proyecto desplegado mediante Vercel
 
-![Light mode](https://raw.githubusercontent.com/Jonmaa/finanzas/main/public/light.png)
-![Dark mode](https://raw.githubusercontent.com/Jonmaa/finanzas/main/public/dark.png)
+![Light mode](https://raw.githubusercontent.com/Jonmaa/Dashboard-Finanzas/main/finanzas/public/light.png)
+![Dark mode](https://raw.githubusercontent.com/Jonmaa/Dashboard-Finanzas/main/finanzas/public/dark.png)
