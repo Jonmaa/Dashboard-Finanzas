@@ -1,4 +1,3 @@
-// src/components/MonthFilter.tsx
 import { format, startOfMonth, subMonths } from "date-fns";
 import { es } from "date-fns/locale";
 

@@ -1,5 +1,3 @@
-// src/components/ExportCSVButton.tsx
-
 import { Download } from "lucide-react";
 import type { Transaction } from "../types";
 import { format } from "date-fns";
@@ -23,7 +21,7 @@ export default function ExportCSVButton({
       .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
       .map((t) => [
         format(new Date(t.date), "dd/MM/yyyy HH:mm", { locale: es }),
-        `"${t.description}"`,                   // comillas para proteger comas dentro del texto
+        `"${t.description}"`,
         t.category,
         t.type === "income" ? "Ingreso" : "Gasto",
         t.amount.toFixed(2),
