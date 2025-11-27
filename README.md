@@ -36,5 +36,6 @@ Abre http://localhost:5173 y listo!
 ## Deploy
 Proyecto desplegado mediante Vercel
 
+## Imágenes 
 ![Light mode](https://raw.githubusercontent.com/Jonmaa/Dashboard-Finanzas/main/finanzas/public/light.png)
 ![Dark mode](https://raw.githubusercontent.com/Jonmaa/Dashboard-Finanzas/main/finanzas/public/dark.png)
